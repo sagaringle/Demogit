@@ -3,9 +3,11 @@ this is my first git file......
 <html>
 <head>
 hello this is git demo
+
+<h1> done with branching</h1>
 </head>
 <body>
- welcome to the word of git 
+ welcome to the world of git 
 <p>start</p>
 </body>
 </html>
